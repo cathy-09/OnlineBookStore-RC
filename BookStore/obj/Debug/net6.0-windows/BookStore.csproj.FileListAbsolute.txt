@@ -1,0 +1,82 @@
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\bin\Debug\net6.0-windows\BookStore.exe
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\bin\Debug\net6.0-windows\BookStore.deps.json
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\bin\Debug\net6.0-windows\BookStore.runtimeconfig.json
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\bin\Debug\net6.0-windows\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\bin\Debug\net6.0-windows\BookStore.pdb
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.Form1.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.sourcelink.json
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\refint\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.pdb
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\Project OnlineBookStore\BookStore\obj\Debug\net6.0-windows\ref\BookStore.dll
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.AccessForm.resources
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.LoginForm.resources
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.Properties.Resources.resources
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.SignUpForm.resources
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.dll
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\refint\BookStore.dll
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.pdb
+C:\Users\Student\Downloads\BookStore\bin\Debug\net6.0-windows\BookStore.exe
+C:\Users\Student\Downloads\BookStore\bin\Debug\net6.0-windows\BookStore.deps.json
+C:\Users\Student\Downloads\BookStore\bin\Debug\net6.0-windows\BookStore.runtimeconfig.json
+C:\Users\Student\Downloads\BookStore\bin\Debug\net6.0-windows\BookStore.dll
+C:\Users\Student\Downloads\BookStore\bin\Debug\net6.0-windows\BookStore.pdb
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\Student\Downloads\BookStore\obj\Debug\net6.0-windows\ref\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\bin\Debug\net6.0-windows\BookStore.exe
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\bin\Debug\net6.0-windows\BookStore.deps.json
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\bin\Debug\net6.0-windows\BookStore.runtimeconfig.json
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\bin\Debug\net6.0-windows\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\bin\Debug\net6.0-windows\BookStore.pdb
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.CartForm.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.EmployeeForm.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.LoginForm.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.ProductForm.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.Properties.Resources.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.SignUpForm.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.UserForm.resources
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\refint\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.pdb
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\ref\BookStore.dll
+C:\Users\Student\Documents\Katerina_Dimitrova_12_klas_Inf_modul_3\BookStore\obj\Debug\net6.0-windows\BookStore.AdminForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\bin\Debug\net6.0-windows\BookStore.exe
+C:\Users\1234\Downloads\Незавършен\BookStore\bin\Debug\net6.0-windows\BookStore.deps.json
+C:\Users\1234\Downloads\Незавършен\BookStore\bin\Debug\net6.0-windows\BookStore.runtimeconfig.json
+C:\Users\1234\Downloads\Незавършен\BookStore\bin\Debug\net6.0-windows\BookStore.dll
+C:\Users\1234\Downloads\Незавършен\BookStore\bin\Debug\net6.0-windows\BookStore.pdb
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.AdminForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.CartForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.EmployeeForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.LoginForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.ProductForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.Properties.Resources.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.SignUpForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.UserForm.resources
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.GenerateResource.cache
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfoInputs.cache
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.AssemblyInfo.cs
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.dll
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\refint\BookStore.dll
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.pdb
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\BookStore.genruntimeconfig.cache
+C:\Users\1234\Downloads\Незавършен\BookStore\obj\Debug\net6.0-windows\ref\BookStore.dll
